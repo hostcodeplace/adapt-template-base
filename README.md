@@ -1,0 +1,1 @@
+# adapt-template-base
